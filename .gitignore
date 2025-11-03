@@ -1,0 +1,61 @@
+# --- Python ---
+
+ex00/
+.ipynb_checkpoints
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# --- Data files ---
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.ods
+*.json
+*.parquet
+*.h5
+*.pkl
+
+# --- Logs and cache ---
+*.log
+*.out
+*.err
+*.dat
+*.cache/
+.cache/
+logs/
+tmp/
+temp/
+
+
+# --- Plotly and visualization outputs ---
+*.html
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# --- IDE and editor settings ---
+.vscode/
+.idea/
+*.swp
